@@ -1,8 +1,8 @@
 Create a dictionary called `class_data` with the following keys:
 
-- "course_name", which should correspond to "Intro to Python"
+- "course_name", which should correspond to "Data Science Bootcamp"
 
-- "student_count", which should correspond to number of students, say 20
+- "student_count", which should correspond to number of students, say 7
 
 - "instructor", which should itself be a dictionary with the following keys
     - "name" ("Henry")

@@ -7,3 +7,7 @@
 - Then combine `first_name` and `last_name` so that it equals your full name, and save this in a variable called `full_name`.
 
 - Prove using the == operator that they are equal.
+
+- (Extra Credit): Find out how to get the length of a string.
+
+- (Extra Credit): Read up on string interpolation.

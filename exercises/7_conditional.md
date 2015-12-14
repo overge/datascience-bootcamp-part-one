@@ -10,3 +10,4 @@ Create an if/elif/else statement that prints:
 
 - "Are you sure those aren't your initials?" if the name is less than 3 letters long
 
+- Look into inline if in case you finish early

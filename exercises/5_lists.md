@@ -14,3 +14,8 @@
 - Check if 'Dunkin Donuts' is in the list
 
 - Get the length of the list
+
+- Look into list slicing if you finish early
+
+- Use a list comprehension to get all squares of even bases from [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+
