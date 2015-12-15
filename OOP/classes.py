@@ -14,6 +14,7 @@ class Animal(object):
     def __init__(self, name):
         """
         The __init__ method runs whenever an instance is created of the class.
+        Animal("Spot") -> instance of Animal named Spot
         """
         # Instance variables
         self.age = 0
@@ -37,9 +38,6 @@ class Dog(Animal):
     def __init__(self, name):
         super(Dog, self).__init__(name)
         self.trait = "friendly"
-
-    def have_birthday(self):
-        self.age += 1
 
     def talk(self):
         print "Bark!!"
